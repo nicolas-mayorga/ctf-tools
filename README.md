@@ -1,6 +1,17 @@
 # ctf-tools
 Different tools/websites to help with CTFs
 
-[CyberChef](https://gchq.github.io/CyberChef/)
+## Websites (will sort later once there's more)
+[CyberChef](https://gchq.github.io/CyberChef/): analyse and decode data easily
 
-[Simple PDF Metadata Viewer](https://pics.io/pdf-metadata-viewer)
+[Simple Image Metadata Viewer](https://pics.io/pdf-metadata-viewer)
+
+[Forensically - JPEG Analysis](https://29a.ch/photo-forensics/#forensic-magnifier): analyse jpegs, able to manipulate the image in different ways
+
+[dCode](https://www.dcode.fr/en): decode ciphers
+
+[HexEdit](https://hexed.it/): edit hexdumps easily
+
+## CL tools 
+Steghide: steghide --extract -sf "filename.ext"
+
