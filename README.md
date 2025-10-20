@@ -12,6 +12,10 @@ Different tools/websites to help with CTFs
 
 [HexEdit](https://hexed.it/): edit hexdumps easily
 
+[StegOnline](https://georgeom.net/StegOnline/upload): stegonography stuff
+
+[AperiSolve](https://www.aperisolve.com/): another stegonography site, does a lot of stuff at once
+
 ## CL tools 
 Steghide: steghide --extract -sf "filename.ext"
 
