@@ -15,3 +15,5 @@ Different tools/websites to help with CTFs
 ## CL tools 
 Steghide: steghide --extract -sf "filename.ext"
 
+John the ripper: john -wordlist="filename.txt" -format="hash-mode" hashfile.txt
+
