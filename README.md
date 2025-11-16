@@ -16,7 +16,7 @@ Different tools/websites to help with CTFs
 
 [AperiSolve](https://www.aperisolve.com/): another stegonography site, does a lot of stuff at once
 
-[QuipQiup] (https://quipqiup.com/) cryptogram solver
+[QuipQiup](https://quipqiup.com/) cryptogram solver
 
 ## CL tools 
 Steghide: steghide --extract -sf "filename.ext"
