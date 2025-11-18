@@ -1,7 +1,7 @@
 # ctf-tools
-Different tools/websites to help with CTFs
+a few common tools/websites to help with CTFs
 
-## Websites (will sort later once there's more)
+## Websites
 [CyberChef](https://gchq.github.io/CyberChef/): analyse and decode data easily
 
 [Image Metadata Viewer](https://pics.io/pdf-metadata-viewer): view image metadata quickly and easily
