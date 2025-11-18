@@ -19,7 +19,9 @@ Different tools/websites to help with CTFs
 [QuipQiup](https://quipqiup.com/) cryptogram solver
 
 ## CL tools 
+
+Quick example usage:
 Steghide: steghide --extract -sf "filename.ext"
 
-John the ripper: john -wordlist="filename.txt" -format="hash-mode" hashfile.txt
+John the ripper: john -wordlist="filename.txt" -format="hash-mode" hashfile.txt <- use man john to see different hash-modes
 
