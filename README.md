@@ -26,4 +26,4 @@ Steghide: steghide --extract -sf "filename.ext"
 John the ripper: john -wordlist="filename.txt" -format="hash-mode" hashfile.txt <- use man john to see different hash-modes
 
 # ASCII TABLE !!
-![alt text](https://github.com/nicolas-mayorga/ctf-tools/blob/main/ASCII-Table.png)
+![ascii table](https://github.com/nicolas-mayorga/ctf-tools/blob/main/ASCII-Table.png)
