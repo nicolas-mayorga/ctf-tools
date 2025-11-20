@@ -18,6 +18,7 @@ a few common tools/websites to help with CTFs
 
 [QuipQiup](https://quipqiup.com/) cryptogram solver
 
+[GTFOBins](https://gtfobins.github.io/) list of unix binaries to bypass certain restrictions
 ## CL tools 
 
 Quick example usage:
