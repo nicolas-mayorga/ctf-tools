@@ -18,7 +18,9 @@ a few common tools/websites to help with CTFs
 
 [QuipQiup](https://quipqiup.com/) cryptogram solver
 
-[GTFOBins](https://gtfobins.github.io/) list of unix binaries to bypass certain restrictions
+[GTFOBins](https://gtfobins.github.io/): list of unix binaries to bypass certain restrictions
+
+[Overflow Tool](https://zerosum0x0.blogspot.com/2016/11/overflow-exploit-pattern-generator.html): generates a unique pattern and can calculate offset for overflow exploits
 ## CL tools 
 
 Quick example usage:
